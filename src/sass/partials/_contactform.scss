@@ -1,0 +1,80 @@
+form {
+  padding: 20px;
+  display: block;
+  margin: 20px auto;
+}
+
+input,
+textarea {
+  display: block;
+  margin-top: 10px;
+  font-size: 20px;
+  width: 250px;
+}
+
+span {
+  color: red;
+  font-size: 13px;
+}
+
+h6 {
+  margin-top: 20px;
+  margin-bottom: -10px;
+}
+
+.success {
+  text-align: center;
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px,
+    rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+  padding: 15px;
+  margin: 30px auto;
+  display: block;
+}
+
+.button-25 {
+  background-color: #36a9ae;
+  background-image: linear-gradient(#37adb2, #329ca0);
+  border: 1px solid #2a8387;
+  border-radius: 4px;
+  box-shadow: rgba(0, 0, 0, 0.12) 0 1px 1px;
+  color: #ffffff;
+  cursor: pointer;
+  display: block;
+  font-family: -apple-system, ".SFNSDisplay-Regular", "Helvetica Neue",
+    Helvetica, Arial, sans-serif;
+  font-size: 17px;
+  line-height: 100%;
+  margin-top: 10px;
+  outline: 0;
+  padding: 11px 15px 12px;
+  text-align: center;
+  transition: box-shadow 0.05s ease-in-out, opacity 0.05s ease-in-out;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  width: 30%;
+}
+
+@media only screen and (min-width: 600px) {
+  form {
+    padding: 20px;
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+  }
+
+  input,
+  textarea {
+    display: block;
+    font-size: 20px;
+    width: 350px;
+    margin: 10px auto;
+  }
+
+  .button-25 {
+    display: block;
+    width: 30%;
+    margin-top: 20px;
+    margin: 0px auto;
+  }
+}
