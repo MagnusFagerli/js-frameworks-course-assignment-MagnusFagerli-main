@@ -21,7 +21,7 @@ Contact form has necessary validation requirements. Username and e-mail are link
 1. Clone the repo:
 
 ```bash
-git clone git@github.com:NoroffFEU/portfolio-1-example.git
+gh repo clone MagnusFagerli/js-frameworks-course-assignment-MagnusFagerli-main
 ```
 
 2. Install the dependencies:
@@ -42,4 +42,4 @@ npm run start
 
 ## Contact
 
-[My LinkedIn page] (https://www.linkedin.com/in/magnus-fagerli-386128b3/)
+[My LinkedIn page](https://www.linkedin.com/in/magnus-fagerli-386128b3/)
