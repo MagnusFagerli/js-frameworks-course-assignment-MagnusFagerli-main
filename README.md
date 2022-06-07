@@ -1,8 +1,6 @@
-# Javascript Frameworks Course Assignment
+# Course Assignment of the Javascript Frameworks Module
 
 ## Description
-
-# Course Assignment of the Javascript Frameworks Module.
 
 Created with set requirements from Noroff, which includes admin login with JWT plguin, focus on creating reusable components, contact form, and an API call.
 
